@@ -21,10 +21,6 @@ dependencies:
   flutter_localizations:
     sdk: flutter
 
-  flutter_svg: ^0.22.0
-
-  testfairy_flutter: ^2.1.2
-
 
 dev_dependencies:
   flutter_test:
