@@ -33,6 +33,7 @@
 
 # Web related
 lib/generated_plugin_registrant.dart
+lib/secret.dart
 
 # Symbolication related
 app.*.symbols
@@ -44,3 +45,18 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/ios/build/Pods.build/Release-iphonesimulator/Firebase.build/dgph
+/ios/build/Pods.build/Release-iphonesimulator/firebase_core.build/dgph
+/ios/build/Pods.build/Release-iphonesimulator/firebase_in_app_messaging.build/dgph
+/ios/build/Pods.build/Release-iphonesimulator/FirebaseABTesting.build/dgph
+/ios/build/Pods.build/Release-iphonesimulator/FirebaseCore.build/dgph
+/ios/build/Pods.build/Release-iphonesimulator/FirebaseCoreDiagnostics.build/dgph
+/ios/build/Pods.build/Release-iphonesimulator/FirebaseInAppMessaging.build/dgph
+/ios/build/Pods.build/Release-iphonesimulator/FirebaseInAppMessaging-InAppMessagingDisplayResources.build/dgph
+/ios/build/Pods.build/Release-iphonesimulator/FirebaseInstallations.build/dgph
+/ios/build/Pods.build/Release-iphonesimulator/Flutter.build/dgph
+/ios/build/Pods.build/Release-iphonesimulator/GoogleDataTransport.build/dgph
+/ios/build/Pods.build/Release-iphonesimulator/GoogleUtilities.build/dgph
+/ios/build/Pods.build/Release-iphonesimulator/nanopb.build/dgph
+/ios/build/Pods.build/Release-iphonesimulator/Pods-Runner.build/dgph
+/ios/build/Pods.build/Release-iphonesimulator/PromisesObjC.build/dgph
